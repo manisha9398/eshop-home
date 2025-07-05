@@ -1,2 +1,2 @@
 # eshop-home
-landing page 
+landing page of eshop
